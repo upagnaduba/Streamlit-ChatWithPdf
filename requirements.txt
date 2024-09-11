@@ -1,3 +1,4 @@
-streamlit==1.23.1
-PyMuPDF==1.22.5
-langchain-groq==0.1
+Flask
+PyMuPDF
+langchain-groq
+langchain-core
